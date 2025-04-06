@@ -1,0 +1,46 @@
+2025:03:09 13:34:27:351 [main] INFO    Testng.Flipkartsearchtestng -User is opening chrome browser.
+2025:03:09 13:34:29:412 [main] INFO    Testng.Flipkartsearchtestng -User has been redirected to flipkart site.
+2025:03:09 13:34:33:259 [main] INFO    Testng.Flipkartsearchtestng -User search an product called as Mobileclick on enter button
+2025:03:09 13:34:37:528 [main] INFO    Testng.Flipkartsearchtestng -After product get search user is clearing the search box
+2025:03:09 13:34:39:637 [main] INFO    Testng.Flipkartsearchtestng -User search an product called as Laptopclick on enter button
+2025:03:09 13:34:43:887 [main] INFO    Testng.Flipkartsearchtestng -After product get search user is clearing the search box
+2025:03:09 13:34:46:021 [main] INFO    Testng.Flipkartsearchtestng -User search an product called as Smart watchclick on enter button
+2025:03:09 13:34:50:312 [main] INFO    Testng.Flipkartsearchtestng -After product get search user is clearing the search box
+2025:03:09 13:34:52:473 [main] INFO    Testng.Flipkartsearchtestng -after every search has been done then user close the chrome browser
+2025:03:09 13:59:15:142 [main] INFO    Log4j.projectdemo -user has open chrome driver
+2025:03:09 13:59:18:561 [main] INFO    Log4j.projectdemo -User has opened website
+2025:03:09 13:59:20:622 [main] INFO    Log4j.projectdemo -User has entered Username
+2025:03:09 13:59:22:700 [main] INFO    Log4j.projectdemo -User has entered password
+2025:03:09 13:59:25:885 [main] INFO    Log4j.projectdemo -User has clicked on login button
+2025:03:09 13:59:52:695 [main] INFO    Log4j.projectdemo -user has open chrome driver
+2025:03:09 13:59:56:012 [main] INFO    Log4j.projectdemo -User has opened website
+2025:03:09 13:59:58:095 [main] INFO    Log4j.projectdemo -User has entered Username
+2025:03:09 14:00:00:178 [main] INFO    Log4j.projectdemo -User has entered password
+2025:03:09 14:00:03:360 [main] INFO    Log4j.projectdemo -User has clicked on login button
+2025:03:09 14:00:41:023 [main] INFO    Log4j.projectdemo -user has open chrome driver
+2025:03:09 14:00:44:400 [main] INFO    Log4j.projectdemo -User has opened website
+2025:03:09 14:00:46:480 [main] INFO    Log4j.projectdemo -User has entered Username
+2025:03:09 14:00:48:557 [main] INFO    Log4j.projectdemo -User has entered password
+2025:03:09 14:00:52:370 [main] INFO    Log4j.projectdemo -User has clicked on login button
+2025:03:09 14:04:53:872 [main] INFO    Log4j.projectdemo -user has open chrome driver
+2025:03:09 14:04:57:309 [main] INFO    Log4j.projectdemo -User has opened website
+2025:03:09 14:04:59:447 [main] INFO    Log4j.projectdemo -User has entered Username
+2025:03:09 14:05:01:547 [main] INFO    Log4j.projectdemo -User has entered password
+2025:03:09 14:05:05:510 [main] INFO    Log4j.projectdemo -User has clicked on login button
+2025:03:09 14:05:53:424 [main] INFO    Log4j.projectdemo -user has open chrome driver
+2025:03:09 14:05:57:284 [main] INFO    Log4j.projectdemo -User has opened website
+2025:03:09 14:05:59:408 [main] INFO    Log4j.projectdemo -User has entered Username
+2025:03:09 14:06:01:492 [main] INFO    Log4j.projectdemo -User has entered password
+2025:03:09 14:06:05:123 [main] INFO    Log4j.projectdemo -User has clicked on login button
+2025:03:09 14:12:03:976 [main] INFO    Log4j.projectdemo -user has open chrome driver
+2025:03:09 14:12:07:300 [main] INFO    Log4j.projectdemo -User has opened website
+2025:03:09 14:12:09:427 [main] INFO    Log4j.projectdemo -User has entered Username
+2025:03:09 14:12:11:517 [main] INFO    Log4j.projectdemo -User has entered password
+2025:03:09 14:12:14:682 [main] INFO    Log4j.projectdemo -User has clicked on login button
+2025:03:09 14:12:14:710 [main] ERROR   Log4j.projectdemo -User not able to login
+2025:03:16 12:15:39:681 [main] INFO    Log4j.projectdemo -user has open chrome driver
+2025:03:16 12:15:44:973 [main] INFO    Log4j.projectdemo -User has opened website
+2025:03:16 12:15:47:203 [main] INFO    Log4j.projectdemo -User has entered Username
+2025:03:16 12:15:49:414 [main] INFO    Log4j.projectdemo -User has entered password
+2025:03:16 12:15:52:617 [main] INFO    Log4j.projectdemo -User has clicked on login button
+2025:03:16 12:15:52:685 [main] ERROR   Log4j.projectdemo -User not able to login
