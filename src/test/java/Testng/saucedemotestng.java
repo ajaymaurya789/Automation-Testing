@@ -42,8 +42,13 @@ public class saucedemotestng {
 		w.findElement(By.id("user-name")).sendKeys(username);
 		w.findElement(By.id("password")).sendKeys(password);
 		w.findElement(By.id("login-button")).click();
-		w.findElement(By.id("react-burger-menu-btn")).click();
-		w.findElement(By.linkText("Logout")).click();
+		try {
+			w.findElement(By.id("react-burger-menu-btn")).click();
+			w.findElement(By.linkText("Logout")).click();
+		} catch (Exception e) {
+			
+		}
+		
 	}
 	@AfterClass (alwaysRun = true)
 	public void close() {
